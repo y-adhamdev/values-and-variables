@@ -199,10 +199,6 @@ Qarzga olish mumkin: True
 Yordam kerak: False
 &&, || va ! operatorlarining har biri qaysi talabni ifodalashini tushuntiring. Quyidagi holatlarni alohida ishga tushirishlarda tekshiring; natijalarni tayyor matn sifatida kodga yozmang.
 
-Yosh	Karta bor	Kechiktirilgan kitob bor	Yosh talabi bajarilgan	Kitob olish mumkin	Yordam kerak
-13	true	false	False	False	False
-14	true	false	True	True	False
-16	false	true	True	False	True
 15. Savol: Xarid cheki va budjet hisobotini yarating
 
 Bu mashqda satrlar, konsoldan kiritish, tur o'zgartirish, arifmetika va mantiqiy ifodalarni bitta ketma-ket dasturda birlashtiring.
